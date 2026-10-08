@@ -38,7 +38,3 @@ Input -> Linkwitz-Riley crossover (60-250 Hz, default 120)
 - Tight detector times (`coef(60)`, `coef(400)`) and the `tg * 2.0f` exponent.
 - Punch depth (`jlimit(0, 12)` dB).
 - Preset values in `PluginEditor.cpp`.
-
-## Before releasing
-
-Run `pluginval` (strictness 5+), test mono and stereo tracks in both DAWs, and null-test with all knobs at default (output should match input, delayed by the reported latency).
