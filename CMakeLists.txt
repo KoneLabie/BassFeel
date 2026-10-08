@@ -20,7 +20,7 @@ if(APPLE)
 endif()
 
 juce_add_plugin(BassFeel
-    COMPANY_NAME "YourName"
+    COMPANY_NAME "Kone Labie"
     IS_SYNTH FALSE
     NEEDS_MIDI_INPUT FALSE
     NEEDS_MIDI_OUTPUT FALSE
