@@ -2,6 +2,8 @@
 
 Five macro knobs: **Weight, Punch, Tight, Grit, Width**. An Advanced drawer holds Crossover, Mono Lows and Output. Presets are chips along the top.
 
+<img width="939" height="708" alt="safsdfasf" src="https://github.com/user-attachments/assets/a0f3d6b2-ad0a-4e02-8207-327860e04ce1" />
+
 ## Build
 
 Requirements: CMake 3.22+, a C++17 compiler (Visual Studio 2022 on Windows, Xcode on macOS), and internet access on the first configure (CMake downloads JUCE 8.0.4).
