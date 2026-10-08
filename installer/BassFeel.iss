@@ -1,7 +1,7 @@
 ; BassFeel one-click Windows installer (Inno Setup 6.3+)
 #define AppName "BassFeel"
 #define AppVersion "0.1.0"
-#define Publisher "YourName"
+#define Publisher "Kone Labie"
 #define BuildDir "..\build\BassFeel_artefacts\Release"
 
 [Setup]
